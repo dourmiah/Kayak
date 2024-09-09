@@ -1,0 +1,36 @@
+City,Temperature (°C),Humidity (%),Weather
+Mont Saint Michel,12,96,Clouds
+Saint Malo,12,100,Clear
+Bayeux,13,84,Clouds
+Le Havre,17,94,Clouds
+Rouen,13,92,Clouds
+Paris,14,92,Clear
+Amiens,13,79,Clear
+Lille,14,84,Clouds
+Strasbourg,17,85,Clouds
+Chateau du Haut Koenigsbourg,15,82,Clear
+Colmar,18,86,Clear
+Eguisheim,18,86,Clear
+Besancon,15,96,Clouds
+Dijon,16,77,Clouds
+Annecy,18,77,Clouds
+Grenoble,18,97,Clouds
+Lyon,17,72,Clear
+Gorges du Verdon,17,57,Clouds
+Bormes les Mimosas,23,53,Clear
+Cassis,22,56,Clouds
+Marseille,22,59,Clear
+Aix en Provence,20,59,Clouds
+Avignon,21,64,Clear
+Uzes,20,52,Clear
+Nimes,21,56,Clear
+Aigues Mortes,22,53,Clear
+Saintes Maries de la mer,22,57,Clear
+Collioure,21,55,Clear
+Carcassonne,16,82,Clear
+Ariege,12,82,Clear
+Toulouse,15,88,Clear
+Montauban,15,66,Clear
+Biarritz,14,100,Clear
+Bayonne,14,100,Clear
+La Rochelle,15,94,Clear
