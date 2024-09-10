@@ -1,36 +1,36 @@
 City,Temperature (°C),Humidity (%),Weather
-Mont Saint Michel,12,96,Clouds
-Saint Malo,12,100,Clear
-Bayeux,13,84,Clouds
-Le Havre,17,94,Clouds
-Rouen,13,92,Clouds
-Paris,14,92,Clear
-Amiens,13,79,Clear
-Lille,14,84,Clouds
-Strasbourg,17,85,Clouds
-Chateau du Haut Koenigsbourg,15,82,Clear
-Colmar,18,86,Clear
-Eguisheim,18,86,Clear
-Besancon,15,96,Clouds
-Dijon,16,77,Clouds
-Annecy,18,77,Clouds
-Grenoble,18,97,Clouds
-Lyon,17,72,Clear
-Gorges du Verdon,17,57,Clouds
-Bormes les Mimosas,23,53,Clear
-Cassis,22,56,Clouds
-Marseille,22,59,Clear
-Aix en Provence,20,59,Clouds
-Avignon,21,64,Clear
-Uzes,20,52,Clear
-Nimes,21,56,Clear
-Aigues Mortes,22,53,Clear
-Saintes Maries de la mer,22,57,Clear
-Collioure,21,55,Clear
-Carcassonne,16,82,Clear
-Ariege,12,82,Clear
-Toulouse,15,88,Clear
-Montauban,15,66,Clear
-Biarritz,14,100,Clear
-Bayonne,14,100,Clear
-La Rochelle,15,94,Clear
+Mont Saint Michel,16,89,Clouds
+Saint Malo,16,88,Clouds
+Bayeux,15,91,Clouds
+Le Havre,16,100,Mist
+Rouen,16,86,Clouds
+Paris,16,81,Clouds
+Amiens,15,83,Rain
+Lille,15,86,Rain
+Strasbourg,16,67,Clouds
+Chateau du Haut Koenigsbourg,11,77,Clear
+Colmar,14,79,Clear
+Eguisheim,14,79,Clear
+Besancon,10,96,Clouds
+Dijon,14,77,Clouds
+Annecy,12,87,Clear
+Grenoble,13,84,Clear
+Lyon,13,82,Rain
+Gorges du Verdon,13,72,Clear
+Bormes les Mimosas,22,44,Clear
+Cassis,20,42,Clear
+Marseille,21,46,Clouds
+Aix en Provence,19,50,Clear
+Avignon,19,57,Clear
+Uzes,18,62,Clear
+Nimes,18,59,Clear
+Aigues Mortes,21,46,Clear
+Saintes Maries de la mer,19,56,Rain
+Collioure,21,62,Clear
+Carcassonne,17,67,Clear
+Ariege,7,91,Clouds
+Toulouse,17,72,Clouds
+Montauban,17,78,Clear
+Biarritz,19,63,Clouds
+Bayonne,19,63,Clouds
+La Rochelle,17,87,Clouds
